@@ -41,7 +41,7 @@ Run `bundle install`.
 
 ### Create a New Bot Integration
 
-This is something done in Slack, under [integrations](https://my.slack.com/services). Create a [new bot](https://my.slack.com/services/new/bot), and note its API token.
+This is something done in Slack, under <a href="https://my.slack.com/services" target="_blank">integrations</a>. Create a <a href="https://my.slack.com/services/new/bot" target="_blank">new bot</a>, and note its API token.
 
 ![](screenshots/register-bot.png)
 
